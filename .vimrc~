@@ -117,8 +117,6 @@ let mapleader=","
 set completeopt=menu
 set undofile
 
-let g:SuperTabDefaultCompletionType = "context"
-
 " Shortcut for window movement
 nnoremap <C-h> <C-w>h
 nnoremap <C-j> <C-w>j
